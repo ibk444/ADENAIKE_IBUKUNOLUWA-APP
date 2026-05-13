@@ -19,7 +19,6 @@ export default function HomeScreen() {
       }>
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Welcome ADENAIKE IBUKUNOLUWA!</ThemedText>
-        <ThemedText type="title">RUN-CYB-22-13078</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
